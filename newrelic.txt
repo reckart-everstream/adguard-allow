@@ -1,0 +1,4 @@
+log-api.newrelic.com
+infrastructure-command-api.newrelic.com
+identity-api.newrelic.com
+mobile-collector.newrelic.com
